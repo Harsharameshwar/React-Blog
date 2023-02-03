@@ -1,0 +1,21 @@
+.single{
+    display: flex;
+    margin-left: 111px;
+    margin-right: 111px;
+}
+.Comment-Section{
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+.settingsSubmit{
+    width: 150px;
+    align-self: center;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
