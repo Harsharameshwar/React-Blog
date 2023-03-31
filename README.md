@@ -1,6 +1,6 @@
 # React-Blog
 
-This application is an BLog which has been built using MERN Stack 
+This application is an Blog which has been built using MERN Stack 
 
 - Just clone the project and change the directory to respective folder and type the command npm install
 
